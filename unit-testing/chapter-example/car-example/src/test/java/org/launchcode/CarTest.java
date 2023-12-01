@@ -1,7 +1,5 @@
 package org.launchcode;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class CarTest {
     //TODO: add emptyTest so we can configure our runtime environment (remove this test before pushing to your personal GitLab account)
     //TODO: constructor sets gasTankLevel properly
